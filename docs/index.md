@@ -57,7 +57,7 @@ Map operations are commands you can script from the command line, Python or the 
 -   **AI Assistant**
 
     Ask about your data or tell the map what to do. Choose a model provider or sign in with
-    ChatGPT; add skills, or hand tasks to a coding agent on your computer. File, network and
+    ChatGPT; add skills, or hand tasks to a coding agent on the desktop. File, network and
     plugin operations wait for your approval.
     [AI Assistant](user-guide/assistant.md) · [Skills](user-guide/assistant.md#skills)
 
