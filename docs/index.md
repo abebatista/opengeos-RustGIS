@@ -28,9 +28,9 @@ Map operations are commands you can script from the command line, Python or the 
 
 -   **Your data, any source**
 
-    GeoJSON, Shapefile, GeoPackage, GeoParquet, GeoTIFF, LiDAR, Zarr and desktop File
-    Geodatabases; live PostGIS, MySQL and SQL Server databases; STAC catalogs, Overture Maps and
-    open-data portals; saved data connections and QGIS projects.
+    GeoJSON, Shapefile, GeoPackage, GeoParquet, GeoTIFF, LiDAR and Zarr; on the desktop, File
+    Geodatabases and live PostGIS, MySQL, MariaDB and SQL Server; STAC catalogs, Overture Maps and
+    open-data portals; saved connections and QGIS projects.
     [Data](user-guide/data.md) · [Web Data](user-guide/web-data.md) · [Formats](user-guide/data-formats.md)
 
 -   **Cartography and 3D**
@@ -64,8 +64,8 @@ Map operations are commands you can script from the command line, Python or the 
 -   **Scriptable and extensible**
 
     `rustgis-cli` and the `rustgis` Python package run commands and render maps; MCP connects AI
-    agents to headless sessions or the open app; the Script pane completes commands and fields.
-    Plugins add tools, commands and assistant skills.
+    agents to headless sessions or the open app. Plugins add tools, commands and assistant skills,
+    sandboxed in WebAssembly or as unsandboxed desktop processes.
     [Command Line](cli.md) · [Python](python.md) · [MCP](mcp.md) · [Plugins](plugins.md)
 
 </div>
